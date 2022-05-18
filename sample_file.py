@@ -5,5 +5,6 @@ def has_ten(my_list):
 
     return False
 
+
 my_list = [1, 2, 3]
 print(has_ten(my_list))
